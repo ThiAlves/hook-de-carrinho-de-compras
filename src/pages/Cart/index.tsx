@@ -88,6 +88,7 @@ const Cart = (): JSX.Element => {
                   >
                     <MdRemoveCircleOutline size={20} />
                   </button>
+                  
                   <input
                     type="text"
                     data-testid="product-amount"

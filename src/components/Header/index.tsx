@@ -25,6 +25,7 @@ const Header = (): JSX.Element => {
         </div>
         <MdShoppingBasket size={36} color="#FFF" />
       </Cart>
+      
     </Container>
   );
 };
